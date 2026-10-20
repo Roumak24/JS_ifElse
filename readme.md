@@ -1,0 +1,1 @@
+This is the task on Javascrpt  ifElse and switch condition
